@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.education {
+  text-align: left;
+}
+
+
+.skills {
+ text-align: left;
+}
+
+
+.work-experience {
+ text-align: left;
+}
+
+.highlight {
+  color: red;
+}
